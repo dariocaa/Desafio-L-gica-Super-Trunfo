@@ -6,5 +6,6 @@ Jogo de Super Trunfo no terminal utilizando Python puro. O foco aqui é na lógi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/logica_super_trunfo.git
+git clone
+https://github.com/dariocaa/Desafio-L-gica-Super-Trunfo.git
 cd logica_super_trunfo
